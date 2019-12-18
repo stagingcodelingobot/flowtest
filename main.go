@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// bad comment
+// _bad_ comment
 func FooBar() {}
 
 main() {
